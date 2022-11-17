@@ -13,3 +13,4 @@ Recycle!
 These are the colors of the rainbow.
 Use less plastic!
 Also don't forget to save the planet!
+To get out of VIM in the terminal use "shift" + ":" and then "q"
